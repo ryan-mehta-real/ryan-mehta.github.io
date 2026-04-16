@@ -1,2 +1,6 @@
-# Welcome to My Blog 🚀
-This is my first GitHub blog!
+---
+layout: home
+title: Home
+---
+
+Welcome to my blog 🚀
